@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Debolina Ghosh</h1>
 <h3 align="center">Mastering the art of problem-solving in 0s and 1s</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-
-- 🔭 I’m currently working on **DataHarbor**
+- 🔭 I’m currently **Pre-final year student at Thapar Institute of Engineerign & Technology**
 
 - 🌱 I’m currently learning **MongoDB , Tensorflow , OpenCV**
 
