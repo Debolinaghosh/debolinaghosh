@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debolinaghosh&label=Profile%20views&color=0e75b6&style=flat" alt="debolinaghosh" /> </p>
 
 - 🔭 I’m currently working on **DataHarbor**
 
@@ -18,7 +17,6 @@
 <a href="https://linkedin.com/in/debolina-g-326350224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debolina-g-326350224" height="30" width="40" /></a>
 <a href="https://kaggle.com/debolina05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debolina05_" height="30" width="40" /></a>
 <a href="https://instagram.com/debolina05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debolina05_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/debolina05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dghosh05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
